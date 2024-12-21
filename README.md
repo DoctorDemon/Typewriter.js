@@ -20,7 +20,10 @@ Simply include the script in your project:
 ```html
 <script src="path/to/typewriter.js"></script>
 ```
-
+Or use the jsdelivr import:
+```html
+<script src="https://cdn.jsdelivr.net/gh/DoctorDemon/Typewriter.js/typewriter.js"></script>
+```
 Make sure the script runs after the DOM is fully loaded.
 
 ## Usage
